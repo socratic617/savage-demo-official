@@ -1,11 +1,8 @@
 ![21 Savage](public/21savage.jpg)
 
-## Installation
+## Rules: For fan base of 21 Savage
 
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `npm run savage`
-2. Navigate to `localhost:3000`
+1) Enter Name 
+2) Enter Message
+3) Click thumbsUp icon or thumbsDown icon if you like or dislike the post of other users
+4) Enjoy the social fangroup !
